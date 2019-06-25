@@ -1,0 +1,2 @@
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));grid-gap:15px}.card{border:none!important}.flex{display:flex;align-items:center}.flex,.flex-wrap span{text-transform:uppercase}.flex-wrap{display:flex;flex-wrap:wrap;justify-content:center}
+/*# sourceMappingURL=main.59fe301d.chunk.css.map */
